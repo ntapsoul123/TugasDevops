@@ -5,10 +5,6 @@ Buat sebuah file (boleh txt, boleh source code)
 Commit file tersebut ke repository
 Edit filenya (ditambahkan atau dikurangi)
 Commit file yang sudah diubah
-Buat branch baru
-Edit file di branch
-Commit hasil edit file di branch
-Merge branch ke master
-Commit file di master
+
 
 Yang dikumpulkan link repo git public.
