@@ -1,6 +1,6 @@
 Tugas Minggu 5
 
-Buat akun Git (untuk yang belum punya. boleh Github, boleh Gitlab, boleh Bitbucket, boleh git pribadi)
+
 
 
 
