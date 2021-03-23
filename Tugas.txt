@@ -2,9 +2,7 @@ Tugas Minggu 5
 
 Buat akun Git (untuk yang belum punya. boleh Github, boleh Gitlab, boleh Bitbucket, boleh git pribadi)
 Buat sebuah file (boleh txt, boleh source code)
-Commit file tersebut ke repository
-Edit filenya (ditambahkan atau dikurangi)
-Commit file yang sudah diubah
+
 
 
 Yang dikumpulkan link repo git public.
